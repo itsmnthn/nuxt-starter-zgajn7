@@ -1,0 +1,9 @@
+:root {
+  --purpleElectYellowBCrayola: #b620e0 0%, #ffaa12 86.01%;
+}
+
+html,
+body,
+#__nuxt {
+  --at-apply: w-full h-full;
+}
